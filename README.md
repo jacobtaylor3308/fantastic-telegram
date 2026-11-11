@@ -3,6 +3,7 @@
 * cd AcademicWeaponsTAFinder
 
 ### 2. Set up Backend
+* open the terminal
 * cd server
 * npm install
 * npm run dev
@@ -10,7 +11,8 @@
 * Verify by running http://localhost:5000/api/health
 
 ### 3. Set up Frontend
-* open a new terminal and cd client
+* open a new terminal
+* cd client
 * 'npm install'
 * 'npm run dev'
 * The front end will be running at http://localhost:3000
