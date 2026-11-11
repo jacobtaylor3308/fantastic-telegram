@@ -1,16 +1,16 @@
 ### 1. Clone the Repository
-* git clone https://github.com/ChrisTros/AcademicWeaponsTAFinder.git
-* cd AcademicWeaponsTAFinder
+* 'git clone https://github.com/ChrisTros/AcademicWeaponsTAFinder.git'
+* 'cd AcademicWeaponsTAFinder'
 
 ### 2. Set up Backend
-* cd server
-* npm install
-* npm run dev
+* 'cd server'
+* 'npm install'
+* 'npm run dev'
 * The backend will run at http://localhost:5000
 * Verify by running http://localhost:5000/api/health
 
 ### 3. Set up Frontend
-* open a new terminal and cd client
+* open a new terminal and 'cd client'
 * 'npm install'
 * 'npm run dev'
 * The front end will be running at http://localhost:3000
