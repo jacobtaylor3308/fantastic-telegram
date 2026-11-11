@@ -13,8 +13,8 @@
 ### 3. Set up Frontend
 * open a new terminal
 * cd client
-* 'npm install'
-* 'npm run dev'
+* npm install
+* npm run dev
 * The front end will be running at http://localhost:3000
 
 ### 4. Access
