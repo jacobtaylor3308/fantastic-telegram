@@ -19,4 +19,4 @@
 
 ### 4. Access
 * With both servers running use the Frontend: http://localhost:3000.
-* Keep both terminals running while running while using the application, you need the backend to handle API request, while the front end provides the interface.
+* Keep both terminals running while using the application, you need the backend to handle API request, while the front end provides the interface.
